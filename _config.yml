@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "왕세현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/logo.png"
   bio              : "태어난 김에 사는 **무야호**"
   location         : "대한민국, 서울"
   email            : "sehyeonwang@naver.com"
