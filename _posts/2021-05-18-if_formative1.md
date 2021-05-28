@@ -7,7 +7,7 @@ toc_label: "페이지 주요 목차"
 ---
 
 ### 01. 책 구입하기
-![책구입](/assets/images/책구입.png)
+![책구입](/assets/images/책구입.PNG)
 ~~~c
 #include <stdio.h>
 int main() {
@@ -26,7 +26,7 @@ int main() {
   ~~~
   
   ### 02. 도어락 해제하기
-  ![도어락](/assets/images/도어락.png)
+  ![도어락](/assets/images/도어락.PNG)
   ~~~c
  #include <stdio.h>
  int main() {
@@ -58,7 +58,7 @@ int main() {
    ~~~
    
    ### 03. 가위바위보
-   ![가위바위보](/assets/images/가위바위보.png)
+   ![가위바위보](/assets/images/가위바위보.PNG)
    ~~~c
    #include <stdio.h>
  int main() {
