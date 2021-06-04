@@ -8,6 +8,7 @@ toc_label: "페이지 주요 목차"
 
 ### 01. 책 구입하기
 ![책구입](/assets/images/책구입.PNG)
+
 ~~~c
 #include <stdio.h>
 int main() {
@@ -23,11 +24,12 @@ int main() {
     printf("책 구입 실패!");
   return 0;
   }
-  ~~~
+~~~
   
   ### 02. 도어락 해제하기
   ![도어락](/assets/images/도어락.PNG)
-  ~~~c
+  
+~~~c
  #include <stdio.h>
  int main() {
   int select;
@@ -55,11 +57,12 @@ int main() {
     printf("디리릭!디리릭!");
     return 0;
    }
-   ~~~
+~~~
    
    ### 03. 가위바위보
    ![가위바위보](/assets/images/가위바위보.PNG)
-   ~~~c
+   
+~~~c
    #include <stdio.h>
  int main() {
     char com, user;
