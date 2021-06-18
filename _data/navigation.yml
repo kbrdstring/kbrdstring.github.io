@@ -1,7 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "C언어"
+    url: /programming/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "ARC"
+    url: /ARC/
+  - title: "동아리"
+    url: /club/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
