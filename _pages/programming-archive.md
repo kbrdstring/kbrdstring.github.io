@@ -1,6 +1,6 @@
 ---
 title: "C언어 포스팅"
-permalink: programming
-layout: posts
+permalink: /programming/
+layout: programming
 author_profile: true
 ---
