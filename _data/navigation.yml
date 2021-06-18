@@ -6,6 +6,8 @@ main:
     url: /ARC/
   - title: "동아리"
     url: /club/
+   - title: "개념"
+    url: /categories/
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
